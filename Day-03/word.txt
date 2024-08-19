@@ -1,0 +1,3 @@
+pip install virtualenv
+python -m venv project-abc
+source project-abc/bin/activate
